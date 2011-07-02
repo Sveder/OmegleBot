@@ -1,0 +1,463 @@
+--------------------
+0
+--------------------
+Got a first id: C7efs-
+Got a second id: mG8sZ5
+Initial state: [["waiting"], ["connected"]]
+Initial state: [["waiting"], ["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+count:  2
+2___ 32 bi-male, usa
+1___ hey
+count:  3
+Disconnect:
+1:  [["strangerDisconnected"]]
+2:  [["typing"]]
+--------------------
+1
+--------------------
+Got a first id: zkRmOk
+Got a second id: tm9K0u
+Initial state: [["connected"]]
+Initial state: [["waiting"], ["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+1___ hi
+count:  2
+2___ 17 f usa
+1___ u?
+count:  3
+1___ m
+count:  4
+2___ ?
+1___ wow.cool
+count:  5
+count:  6
+2___ How old?
+1___ horny????
+count:  7
+count:  8
+2___ Maybe...lol
+1___ 21
+count:  9
+count:  10
+2___ What do you have in mind?
+1___ wats ur boobs size??????
+count:  11
+count:  12
+Disconnect:
+1:  [["strangerDisconnected"]]
+2:  [["gotMessage", "Full C cup"]]
+--------------------
+2
+--------------------
+Got a first id: DARdsh
+Got a second id: JiK1dC
+Initial state: [["waiting"], ["connected"]]
+Initial state: [["waiting"], ["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+count:  2
+2___ 22m
+1___ 21 m Aussie
+count:  3
+Disconnect:
+1:  [["typing"]]
+2:  [["strangerDisconnected"]]
+--------------------
+3
+--------------------
+Got a first id: 0gri_r
+Got a second id: 5SBTHK
+Initial state: [["connected"]]
+Initial state: [["waiting"], ["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+1___ hi
+count:  2
+2___ 15 male london
+1___ m here...
+count:  3
+Disconnect:
+1:  [["strangerDisconnected"]]
+2:  [["typing"]]
+--------------------
+4
+--------------------
+Got a first id: DzbtoV
+Got a second id: 2IKnHX
+Initial state: [["waiting"], ["connected"]]
+Initial state: [["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+count:  2
+2___ 20 m china
+1___ hi
+1___ asl
+count:  3
+Disconnect:
+1:  [["strangerDisconnected"]]
+2:  [["typing"], ["gotMessage", "u?"]]
+--------------------
+5
+--------------------
+Got a first id: TZJr-Q
+Got a second id: zIR1U3
+Initial state: [["waiting"], ["connected"]]
+Initial state: [["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+Disconnect:
+1:  [["typing"], ["gotMessage", "hi"]]
+2:  [["strangerDisconnected"]]
+--------------------
+6
+--------------------
+Got a first id: Im5hc-
+Got a second id: SoxY86
+Initial state: [["waiting"], ["connected"]]
+Initial state: [["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+count:  2
+2___ m/f?
+1___ hey
+count:  3
+count:  4
+1___ 17 m sweden
+1___ u?
+count:  5
+Disconnect:
+1:  [["strangerDisconnected"]]
+2:  []
+--------------------
+7
+--------------------
+Got a first id: co9vqC
+Got a second id: lKnl7A
+Initial state: [["connected"], ["typing"]]
+Initial state: [["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+1___ hey
+1___ m or f?
+count:  2
+Disconnect:
+1:  [["strangerDisconnected"]]
+2:  [["gotMessage", "15 f finland"], ["typing"]]
+--------------------
+8
+--------------------
+Got a first id: PlkjPR
+Got a second id: xfkGA6
+Initial state: [["connected"], ["typing"]]
+Initial state: [["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+2___ hi stranger
+1___ 
+
+--------------------
+9
+--------------------
+Got a first id: UaSiuo
+Got a second id: XdeDgZ
+Initial state: [["connected"]]
+Initial state: [["waiting"], ["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+count:  2
+Disconnect:
+1:  [["gotMessage", "are you a horny girl?"], ["typing"], ["gotMessage", "20 m"], ["typing"], ["gotMessage", "hey"]]
+2:  [["strangerDisconnected"]]
+--------------------
+10
+--------------------
+Got a first id: hGKh4E
+Got a second id: GAljsL
+Initial state: [["waiting"], ["connected"]]
+Initial state: [["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+count:  2
+2___ 14 f
+2___ helo
+1___  21 f taiwan
+count:  3
+Disconnect:
+1:  [["typing"]]
+2:  [["strangerDisconnected"]]
+--------------------
+11
+--------------------
+Got a first id: 7gGzJP
+Got a second id: 9J5EmA
+Initial state: [["waiting"], ["connected"], ["typing"]]
+Initial state: [["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+Disconnect:
+1:  [["gotMessage", "indian girl?"]]
+2:  [["strangerDisconnected"]]
+--------------------
+12
+--------------------
+Got a first id: EfY6qV
+Got a second id: PKRuQ3
+Initial state: [["waiting"], ["connected"]]
+Initial state: [["waiting"], ["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+count:  2
+2___ hii
+1___ you first
+count:  3
+count:  4
+2___ ?
+1___ your asl is hii?
+count:  5
+2___ whats asl??
+count:  6
+2___ sorry
+count:  7
+Disconnect:
+1:  [["typing"]]
+2:  [["strangerDisconnected"]]
+--------------------
+13
+--------------------
+Got a first id: 1BY2YN
+Got a second id: 6nNrtt
+Initial state: [["waiting"], ["connected"], ["typing"]]
+Initial state: [["waiting"], ["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+1___ Hey
+count:  2
+2___ 22/m
+count:  3
+1___ No asslicker
+count:  4
+Disconnect:
+1:  [["typing"], ["gotMessage", "Die motherfucker"], ["typing"], ["gotMessage", "die motherfucker die"], ["strangerDisconnected"]]
+2:  [["typing"]]
+--------------------
+14
+--------------------
+Got a first id: 4AHIYf
+Got a second id: 9XSDhJ
+Initial state: [["connected"], ["typing"], ["gotMessage", "hi"]]
+Initial state: [["waiting"], ["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+1___ 19 m u?
+count:  2
+2___ Hey, i'am 21, f
+count:  3
+2___ And, i'am GaGa
+2___ Really
+count:  4
+1___ nice
+count:  5
+Disconnect:
+1:  [["typing"], ["gotMessage", "horny?"], ["strangerDisconnected"]]
+2:  []
+--------------------
+15
+--------------------
+Got a first id: vKpI3j
+Got a second id: c5zukY
+Initial state: [["connected"]]
+Initial state: [["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+1___ hi
+count:  2
+2___ m 21 canada
+count:  3
+2___ u ?
+1___ go away
+count:  4
+Disconnect:
+1:  [["strangerDisconnected"]]
+2:  [["gotMessage", "hi"]]
+--------------------
+16
+--------------------
+Got a first id: CxHESn
+Got a second id: pbF25g
+Initial state: [["waiting"], ["connected"]]
+Initial state: [["waiting"], ["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+count:  2
+2___ heyya....13...f...uk youuuuuuuuuuuuu?
+1___ 16 female Philippines
+count:  3
+Disconnect:
+1:  [["typing"]]
+2:  [["strangerDisconnected"]]
+--------------------
+17
+--------------------
+Got a first id: nHtKWW
+Got a second id: U-PZKM
+Initial state: [["waiting"], ["connected"]]
+Initial state: [["waiting"], ["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+2___ hi
+2___ m 17 aus
+2___ usa
+2___ u?
+count:  2
+1___ 18 m
+count:  3
+Disconnect:
+1:  [["strangerDisconnected"]]
+2:  [["typing"]]
+--------------------
+18
+--------------------
+Got a first id: u_b4zw
+Got a second id: gt09Be
+Initial state: [["waiting"], ["connected"]]
+Initial state: [["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+2___ asl
+count:  2
+1___ 20/f/china
+count:  3
+2___       name
+2___                                                                                                                                                                                                   name?
+count:  4
+count:  5
+2___ r u horny
+1___ susan ,asl 
+count:  6
+count:  7
+2___ 21m
+2___ susan is not chinese
+count:  8
+count:  9
+1___ no
+1___ asl ?
+count:  10
+2___ 21m
+2___ sex?
+count:  11
+count:  12
+1___ where r u
+count:  13
+2___ turkei
+count:  14
+count:  15
+Disconnect:
+1:  [["gotMessage", "so?"]]
+2:  [["strangerDisconnected"]]
+--------------------
+19
+--------------------
+Got a first id: Y_LWDC
+Got a second id: 7mWxyI
+Initial state: [["connected"]]
+Initial state: [["waiting"], ["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+count:  2
+Disconnect:
+1:  [["gotMessage", "15 f indonesia"], ["typing"], ["gotMessage", "u?"], ["typing"], ["gotMessage", "hi??????"]]
+2:  [["strangerDisconnected"]]
+--------------------
+20
+--------------------
+Got a first id: bwz7xm
+Got a second id: PY3Jl6
+Initial state: [["waiting"], ["connected"]]
+Initial state: [["waiting"], ["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+1___ hi
+count:  2
+2___ 23 m 
+1___ you first
+count:  3
+2___ ok
+count:  4
+1___ from?
+count:  5
+count:  6
+2___ turkey
+1___ from?
+count:  7
+2___ you
+2___ ?
+count:  8
+1___ oh
+count:  9
+2___ hey
+1___ 17 M USA
+count:  10
+2___ ov
+count:  11
+2___ have you got msn
+1___ hi
+count:  12
+count:  13
+2___ msn adress?
+1___ no
+1___ :(
+1___ I'm kinda new to this
+count:  14
+count:  15
+2___ hmm
+1___ I have none
+count:  16
+2___ mail adress
+1___ I'm new to the internet world
+count:  17
+2___ ?
+count:  18
+2___ ok
+1___ none
+count:  19
+2___ welcome:)
+count:  20
+Disconnect:
+1:  [["gotMessage", "sorry"]]
+2:  [["strangerDisconnected"]]
+--------------------
+21
+--------------------
+Got a first id: p8veQd
+Got a second id: r0Huzi
+Initial state: [["waiting"], ["connected"]]
+Initial state: [["waiting"], ["connected"]]
+Win for first?  win
+Win For second?  win
+count:  1
+2___ 19 m ne you
+count:  2
